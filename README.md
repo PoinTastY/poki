@@ -1,0 +1,1 @@
+I decided to make a chatbot that with the time, will be able to perform activities for me, and i think this would be a cool sideproject, bcs ill be able to train and interact with him when i have free time, wil be fun :)
